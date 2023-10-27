@@ -6,31 +6,31 @@ I created this template to be able to just copy it and edit to start new RestAPI
 
 Click on use template and create a new repository:
 <p align="center">
-<img src="https://github.com/Mitisuaki/default-rest-api-template/assets/107155939/1be8c718-6ccb-4cdb-8eb0-87f502c2038b" />
+<img src="https://github.com/Mitisuaki/default-rest-api-template/assets/107155939/fa2fe8ee-84f6-49c2-9783-c4b7fc73e17b" />
 </p>
 
 
 Once done you can clone the repo:
 
 <p align="center">
-<img src="https://github.com/Mitisuaki/default-rest-api-template/assets/107155939/80275c5b-5ed4-458e-bc2f-b1c1adb7e47c" />
+<img src="https://github.com/Mitisuaki/default-rest-api-template/assets/107155939/7c185316-0b6a-49fd-b3a7-9071c3e026ca" />
 </p>
 
 > If you use insomnia you can use the insomnia template (insomnia.json) for tests too:<br>
 
-Create a new case and click on import:
+Click on import:
 <p align="center">
-  <img src="https://github.com/Mitisuaki/default-rest-api-template/assets/107155939/cf80d38a-77f1-4609-ac47-5612fc3803fa" />
+  <img src="https://github.com/Mitisuaki/default-rest-api-template/assets/107155939/84d68d44-3cd5-45df-b092-266dd06a7046" />
 </p>
 
 Select the insomnia file and scan
 <p align="center">
-  <img src="https://github.com/Mitisuaki/default-rest-api-template/assets/107155939/25bc2cee-b3d5-40ef-a1de-b5594ec54895" />
+  <img src="https://github.com/Mitisuaki/default-rest-api-template/assets/107155939/8889f8f3-4f59-41ed-822e-3ff582492444" />
 </p><br>
 
 Then import 
 <p align="center">
-  <img src="https://github.com/Mitisuaki/default-rest-api-template/assets/107155939/d447f044-95fd-4c7b-b519-feeb2ca99330" />
+  <img src="https://github.com/Mitisuaki/default-rest-api-template/assets/107155939/ea53320f-ff4a-4bb4-a5c2-c79a98292d82" />
 </p>
 
 <br><br>
